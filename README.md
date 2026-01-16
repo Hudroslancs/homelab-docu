@@ -1,7 +1,7 @@
 # Google Drive Alternatives
 
 ## 🎯 Project Overview
-Built a virtualized home lab environment using Proxmox VE to develop hands-on skills in cloud computing, cybersecurity, and systems engineering. Im doing this as a learning platform for enterprise technologies and prepares me for roles in cloud security and ML systems engineering.
+Built a virtualized home lab environment using Proxmox VE to develop hands-on skills in cloud computing, cybersecurity, and systems engineering. Im doing this as a learning platform for enterprise technologies as well as finding alternatives for my office google drives and break free from these giant providers
 
 ## 🏗️ Architecture
 
